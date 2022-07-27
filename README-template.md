@@ -27,7 +27,7 @@ Users should be able to:
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
-x
+
 ### Built with
 
 - Semantic HTML5 markup
